@@ -1,0 +1,36 @@
+# .gitignore for Java projects
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+
+# Maven
+target/
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# Java class files
+*.class
+
+# JAR files
+*.jar
+
+# Eclipse and NetBeans specific folders
+*.launch
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Other IDE-specific files
+*.iml
